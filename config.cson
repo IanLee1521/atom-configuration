@@ -1,4 +1,17 @@
 "*":
+  core:
+    destroyEmptyPanes: false
+    themes: [
+      "atom-dark-ui"
+      "monokai"
+    ]
+  editor:
+    fontSize: 12
+    invisibles: {}
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+    tabLength: 4
   "exception-reporting":
     userId: "f73e6a22-2aa1-7461-9368-e6b481e5adde"
   welcome:
