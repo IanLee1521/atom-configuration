@@ -9,6 +9,7 @@
     autoIndentOnPaste: false
     fontSize: 12
     invisibles: {}
+    lineHeight: 1.25
     scrollPastEnd: true
     showIndentGuide: true
     showInvisibles: true
