@@ -6,6 +6,7 @@
       "monokai"
     ]
   editor:
+    autoIndentOnPaste: false
     fontSize: 12
     invisibles: {}
     scrollPastEnd: true
@@ -14,5 +15,8 @@
     tabLength: 4
   "exception-reporting":
     userId: "f73e6a22-2aa1-7461-9368-e6b481e5adde"
+  "git-plus": {}
   welcome:
     showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
